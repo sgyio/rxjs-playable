@@ -2,9 +2,8 @@
 
 Utilise parcel:
 
-    $ npm i -g parcel
     $ npm i
-    $ parcel index.html
+    $ npm run start
 
 # Dépendances
 
