@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint:recommended"],
+  "rules": {
+    "quotemark": [true, "single"],
+    "max-line-length": [true, 150],
+    "no-console": [true, "debug", "info", "time", "timeEnd", "trace"]
+  }
+}
